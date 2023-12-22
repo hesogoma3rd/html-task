@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>初めてのwebページ</title>
+</head>
+
+<body>
+これからHTMLを学んでいきましょう！
+</body>
+</html>
